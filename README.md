@@ -1,7 +1,21 @@
-# to_da
+# Fluter todo app
+## Home screen
+<img src="https://github.com/baseplate77/Flutter-todo-app/blob/master/example/eg_1.jpg" width="300" height="500" />
+## Task screen
+<img src="https://github.com/baseplate77/Flutter-todo-app/blob/master/example/eg_2.jpg" width="300" height="500" />
 
-A new Flutter application.
-
+## dependency
+  provider: ^4.0.5+1
+  sqflite: ^1.3.0+1
+  path: ^1.6.4
+  intl: ^0.16.1
+  
+ ## info
+ This FLutter app consist of simple task adding and removing function but in independent collection format . To achive this it use providor for state managment and sdflite for on devies data storing
+ 
+ 
+ app design https://dribbble.com/shots/4287058-Toedoe-To-Do-App
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
